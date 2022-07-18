@@ -3,6 +3,7 @@
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Servir e coletar dados para o fechamento das viagens realizadas pelos motoristas da empresa.</p>
+<p>Importante realizar a edição das configurações de conexão com o banco no arquivo application.yml</p>
 
 <h2>
 🛑 Pré-requistos
